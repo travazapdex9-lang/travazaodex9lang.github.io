@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <a href="pagina.html">Este é o texto do link</a>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,14 +9,8 @@
    <body>
     <header style="text-align: center;">
         <h1>Forte do perpétuo</h1>
-            <img src="https://www.liceuescola.com.br/wp-content/uploads/2020/07/logo-liceu-color.png" width="384" height="192" style="align-items">
-           
-               
-           
-         
+            <img src="https://www.liceuescola.com.br/wp-content/uploads/2020/07/logo-liceu-color.png" width="384" height="192" style="align-items" 
     </header>
- 
- 
     <main>
         <section id="introducao"style="text-align: center;">
             <h2>História do forte</h2>
@@ -36,8 +29,6 @@ A posição foi guarnecida com soldados e armamentos durante a guerra contra a P
 Em 1957, o Forte foi tombado e restaurado pela Secretaria de Patrimônio Histórico e Artístico Nacional (atual Iphan), tornando-se oficialmente um patrimônio cultural de Paraty e do Brasil; e um centro de memória ligado às nossas culturas tradicionais e à nossa história, especialmente após a criação do Centro de Artes e Tradições Populares nos anos de 1980. 
 Em 2009 o museu passou à administração do Instituto Brasileiro de Museus (Ibram), quando da criação da autarquia. Desde então, a unidade tem avançado em sua inserção na comunidade, no trabalho de pesquisa e em ações educativas e culturais, com destaque para o projeto Paraty Ciranda, a exposição de arte e artesanato popular O Modo de Fazer, o encontro de cultura indígena Ymaguaré e as atividades de educação museal em parceria com as escolas públicas das redes estadual e municipal.</p>
         <section> 
- 
-
             <ul>
                 <figure>
                     <div style="text-align: center;">                   
@@ -46,10 +37,8 @@ Em 2009 o museu passou à administração do Instituto Brasileiro de Museus (Ibr
                     </div>
                 </figure>
             </ul>
-        </section>
-       
-    </main>
-       
+        </section>      
+    </main>      
     <script src="script.js"></script>
 </body>
 </html>
