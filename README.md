@@ -39,6 +39,5 @@ Em 2009 o museu passou à administração do Instituto Brasileiro de Museus (Ibr
             </ul>
         </section>      
     </main>      
-    <script src="script.js"></script>
 </body>
 </html>
